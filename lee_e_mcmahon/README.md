@@ -9,6 +9,7 @@ while remaining as unbiased as possible.
 1931: Born Lee E. McMahon - **citation needed** + **Middle name needed**
 
 ???: Marries Helen G McMahon [inferred from newspaper][20] - **citation needed**
+
 ???: Children Michael & Catherine [inferred from newspaper][20] - **citation needed**
 
 1949: [St. Louis University High Alumni][22] (Catholic, Jesuit college-preparatory school)
@@ -39,7 +40,7 @@ while remaining as unbiased as possible.
 
 ## Pictures
 
-These are the only 3 images currently directly aatributed to Lee.
+These are the only 3 images currently directly attributed to Lee.
 
 ![images/young_lee.jpg](images/young_lee.jpg)
 
