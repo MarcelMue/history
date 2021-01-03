@@ -6,22 +6,22 @@ while remaining as unbiased as possible.
 
 ## Reconstructed CV
 
-1931: Born Lee E. McMahon - *citation needed* + *Middle name needed*
+1931: Born Lee E. McMahon - **citation needed** + **Middle name needed**
 
-???: Marries Helen G McMahon [inferred from newspaper][20] - *citation needed*
-???: Children Michael & Catherine [inferred from newspaper][20] - *citation needed*
+???: Marries Helen G McMahon [inferred from newspaper][20] - **citation needed**
+???: Children Michael & Catherine [inferred from newspaper][20] - **citation needed**
 
 1949: [St. Louis University High Alumni][22] (Catholic, Jesuit college-preparatory school)
 
-???: Graduates from Saint Louis University - *citation needed*
+???: Graduates from Saint Louis University - **citation needed**
 
 ~1960-1970: [McMahon Pairing][10] [created by Lee][18] [most likely in the New York go club][25]
 
 1963: [Phd at harvard for Psychology][23] - Topic: [Grammatical analysis as a part of understanding a sentence][24]
 
-~1963: Jesuit seminar [according to Brian Kernigham][27] - *additional citation needed, not mentioned elsehwere*
+~1963: Jesuit seminar [according to Brian Kernigham][27] - **additional citation needed, not mentioned elsehwere**
 
-1963: Starts working at Bell labs - *citation needed*
+1963: Starts working at Bell labs - **citation needed**
 
 1966: Works on [FASE][19] - multiple articles and papers published
 
@@ -33,9 +33,9 @@ while remaining as unbiased as possible.
 
 198X: Develops [throat cancer][11] (most likely ~1980-1986 by cross referencing with [Gary James Murakami CV][26])
 
-1989: Stops working at Bell labs - *citation needed*
+1989: Stops working at Bell labs - **citation needed**
 
-1989: Death - *citation needed*
+1989: Death - **citation needed**
 
 ## Pictures
 
