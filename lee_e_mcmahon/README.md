@@ -257,6 +257,8 @@ Source: [sed bug mailing list][28]
 
 [Extremely shaky / error ridden genealogy][31]
 
+[Unix playing card scan by David Rosenthal][32]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -288,3 +290,4 @@ Source: [sed bug mailing list][28]
 [29]: http://doc.cat-v.org/unix/v10/10thEdMan/pix/Lemsmall.jpg
 [30]: https://archive.org/details/NJ_Death_Index_1989_G-M/page/n366/mode/1up
 [31]: https://www.genealogy.com/ftm/k/i/r/Merrily-R-Kirchen/WEBSITE-0001/UHP-0230.html
+[32]: https://blog.dshr.org/p/unix-p.html
