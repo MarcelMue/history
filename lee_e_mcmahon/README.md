@@ -8,7 +8,7 @@ while remaining as unbiased as possible.
 
 1931: Born Lee E. McMahon - **citation needed** + **Middle name needed**
 
-???: Marries Helen G McMahon [inferred from newspaper][20] - **citation needed**
+???: Marries Helen G ([maybe maiden name Grogan][31]) McMahon [inferred from newspaper][20] - **citation needed**
 
 ???: Children Michael & Catherine [inferred from newspaper][20] - **citation needed**
 
@@ -36,7 +36,7 @@ while remaining as unbiased as possible.
 
 1989: Stops working at Bell labs - **citation needed**
 
-1989: Death - **citation needed**
+1989: Death (can not be verified in [New Jersey][30]) - **citation needed**
 
 ## Pictures
 
@@ -58,15 +58,15 @@ Playing card depicting Lee - most likely available in [1994][15] and part of a [
 ## Citations
 
 ```
-"A while later a demand arose for another special-purpose 
-program, gres, for substitution:  g/re/s.  Lee McMahon 
-undertook to write it, and soon foresaw that there would be 
-no end to the family:  g/re/d, g/re/a, etc.  As his concept 
-developed it became sed, a tool of remarkable utility that 
-is largely unappreciated today, because it capitalizes on 
-the perfect familiarity with ed that was universal ten years 
-ago, but no more.  Sed covers a lot of needs.  For example, 
-we have never seen fit to adopt the widespread `head' 
+"A while later a demand arose for another special-purpose
+program, gres, for substitution:  g/re/s.  Lee McMahon
+undertook to write it, and soon foresaw that there would be
+no end to the family:  g/re/d, g/re/a, etc.  As his concept
+developed it became sed, a tool of remarkable utility that
+is largely unappreciated today, because it capitalizes on
+the perfect familiarity with ed that was universal ten years
+ago, but no more.  Sed covers a lot of needs.  For example,
+we have never seen fit to adopt the widespread `head'
 utility because `sed 10q' does just as well."(44)
 ```
 
@@ -89,7 +89,7 @@ statistics had come from a compression project she worked on in
 
 You take the whole string, if your ten-letter work had maybe a
 trigram that was six letters long that had a high enough count
-to be worthwhile, you pick that entire six-letter string off 
+to be worthwhile, you pick that entire six-letter string off
 and store it in a dictionary and replace it with a byte and then
 with an index into the dictionary.
 
@@ -100,35 +100,35 @@ analysis, for example, the Federalist papers authorship research.
 Source: [Oral Unix History][8]
 
 ```
-At ManorCare in New Providence, my father-in-law Arne 
-Swenson sits with Gertrude and Helen for meals. I 
+At ManorCare in New Providence, my father-in-law Arne
+Swenson sits with Gertrude and Helen for meals. I
 eventually found that Helen's last name is McMahon,
- and being a Bear's fan, I mentioned Jim McMahon of 
-Chicago Bears and Superbowl Shuffle fame. Helen told 
-me that her husband's name was Lee, and I told her 
-that I had a coworker at Bell Labs named Lee McMahon. 
+ and being a Bear's fan, I mentioned Jim McMahon of
+Chicago Bears and Superbowl Shuffle fame. Helen told
+me that her husband's name was Lee, and I told her
+that I had a coworker at Bell Labs named Lee McMahon.
 I found a photo via Google images, and she said "That's him!"
 
-I worked with Lee McMahon and Bill Marshall on Datakit, 
-a computer network invented by Sandy Fraser in Computer 
-Science Research at Bell Labs Murray Hill. In my mind, 
-I can still picture Lee and Bill in the "Wurlitzer" room 
-which was adjacent to the Unix room in building 2, fifth 
-floor. It was called the Wurlitzer room because the layers 
-of consoles for the Datakit switches resembled a massive 
+I worked with Lee McMahon and Bill Marshall on Datakit,
+a computer network invented by Sandy Fraser in Computer
+Science Research at Bell Labs Murray Hill. In my mind,
+I can still picture Lee and Bill in the "Wurlitzer" room
+which was adjacent to the Unix room in building 2, fifth
+floor. It was called the Wurlitzer room because the layers
+of consoles for the Datakit switches resembled a massive
 organ. Lee and Bill stood at the center of it all.
 
-I can still picture Lee standing in my office doorway to 
-chat about work. He was a chain smoker and would tap ashes 
-into the door latch hole. When I poked him about it he 
-said that there was no problem since the door jamb and 
-walls were all steel. I still wondered at the surprise 
-of a column of ashes for workers doing any remodeling. Lee 
-got throat cancer and a laryngectomy. He returned to work 
-after treatment, and I remember the shock and sympathetic 
-pain that I felt for him as he struggled to speak. We 
-resorted to communicating via pen and paper. Looking back, 
-I can see the interest and effort that he took to encourage 
+I can still picture Lee standing in my office doorway to
+chat about work. He was a chain smoker and would tap ashes
+into the door latch hole. When I poked him about it he
+said that there was no problem since the door jamb and
+walls were all steel. I still wondered at the surprise
+of a column of ashes for workers doing any remodeling. Lee
+got throat cancer and a laryngectomy. He returned to work
+after treatment, and I remember the shock and sympathetic
+pain that I felt for him as he struggled to speak. We
+resorted to communicating via pen and paper. Looking back,
+I can see the interest and effort that he took to encourage
 me professionally and personally - what a great guy!
 ```
 
@@ -137,9 +137,9 @@ Source: [Blog entry][11]
 ```
 Lee E. McMahon’s linguistic insight fostered the characteristic
 text-processing—as distinct from-text-formatting—capabilities of
-the system. He wrote comm, qsort, sed, the current grep, and the 
-concordance-builders index for English and cref for C. After an 
-early fling with cu and an influential laboratory switching system  
+the system. He wrote comm, qsort, sed, the current grep, and the
+concordance-builders index for English and cref for C. After an
+early fling with cu and an influential laboratory switching system
 done with Condon, Morris, Thompson, Chuck (Charles  B.)Haleyand Cherry,
 Lee became the prime software architect for Sandy Fraser’s Datakit® switch.
 ```
@@ -157,31 +157,31 @@ Source: [Die UNIX-Story][27]
 Source: [Bell Telephone Magazine 1966][19]
 
 ```
-In the 1960s, Takao Matsuda and his wife operated a Go studio where 
-there were usually about a dozen players, but it was not financially 
-successful and eventually closed. In the late 1950s and early 1960s 
-go players were invited to play at the Nippon Club on East 96th Street 
-and on 57th Street where the Nippon Club is now located. Many players 
-regularly played there. It was their club manager, Horiguchi-san that 
-made this possible. Other players used to come together in Washington 
-Square Park and during the winter they met in various coffee shops in 
+In the 1960s, Takao Matsuda and his wife operated a Go studio where
+there were usually about a dozen players, but it was not financially
+successful and eventually closed. In the late 1950s and early 1960s
+go players were invited to play at the Nippon Club on East 96th Street
+and on 57th Street where the Nippon Club is now located. Many players
+regularly played there. It was their club manager, Horiguchi-san that
+made this possible. Other players used to come together in Washington
+Square Park and during the winter they met in various coffee shops in
 the Village or at "Go parties" in peoples' homes.
 
-In the late 1960s The New York Go Club was reestablished meeting in a 
-hotel across from Lincoln Center. This was also arranged for and 
-managed by Horiguchi San.  It remained there until about 1971 when 
-it moved to a room in the Chess House on 72nd Street. This was arranged 
-for by Paul Anderson, a past President of the American Go Association, 
-who also helped arrange for The New York Go Club to return to the 
+In the late 1960s The New York Go Club was reestablished meeting in a
+hotel across from Lincoln Center. This was also arranged for and
+managed by Horiguchi San.  It remained there until about 1971 when
+it moved to a room in the Chess House on 72nd Street. This was arranged
+for by Paul Anderson, a past President of the American Go Association,
+who also helped arrange for The New York Go Club to return to the
 Marshall Chess Club one or two years later.
 
-In the early 1980's, the club was upstairs of a Korean restaurant 
-on W 32nd St. Then President Marvin Wolfthal moved the club to 
-a coffee shop on 26th St and 2nd Ave. Michael Simon took over 
-and moved it to 5th Ave and 23rd St in 1988, and then in 1991 to 
+In the early 1980's, the club was upstairs of a Korean restaurant
+on W 32nd St. Then President Marvin Wolfthal moved the club to
+a coffee shop on 26th St and 2nd Ave. Michael Simon took over
+and moved it to 5th Ave and 23rd St in 1988, and then in 1991 to
 49th St between Lexington and 3rd Avenues.
 
-The last New York Go Club closed in 1995. Most of its members 
+The last New York Go Club closed in 1995. Most of its members
 joined The New York Go Center at that time.
 ```
 
@@ -253,6 +253,10 @@ Source: [sed bug mailing list][28]
 
 [Lemsmall portrait of Lee][29]
 
+[New Jersey Death Index 1989][30]
+
+[Extremely shaky / error ridden genealogy][31]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -280,5 +284,7 @@ Source: [sed bug mailing list][28]
 [25]: https://web.archive.org/web/20070503134042/http://www.nygocenter.org/nygclubs.html
 [26]: http://www.nobell.org/~gjm/about/resume.html
 [27]: https://www.amazon.de/Die-UNIX-Story-faszinierende-Geschichte-Computerwelt/dp/3864907780
-[28]: https://lists.gnu.org/archive/html/bug-sed/2018-06/msg00008.html 
+[28]: https://lists.gnu.org/archive/html/bug-sed/2018-06/msg00008.html
 [29]: http://doc.cat-v.org/unix/v10/10thEdMan/pix/Lemsmall.jpg
+[30]: https://archive.org/details/NJ_Death_Index_1989_G-M/page/n366/mode/1up
+[31]: https://www.genealogy.com/ftm/k/i/r/Merrily-R-Kirchen/WEBSITE-0001/UHP-0230.html
