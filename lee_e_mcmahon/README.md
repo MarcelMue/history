@@ -20,19 +20,21 @@ while remaining as unbiased as possible.
 
 1960: [Receives fellowship for study of psychology at Harvard][44] with [summa cum laude][45]
 
-~1960-1970: [McMahon Pairing][10] [created by Lee][18] [most likely in the New York go club][25]
-
 1963: [Phd at Harvard for Psychology][23] - Topic: [Grammatical analysis as a part of understanding a sentence][24]
 
 ~1963: Jesuit seminar [according to Brian Kernigham][27] - **additional citation needed, not mentioned elsehwere**
 
 1963: [Starts working at Bell labs][42]
 
+~1960-1970: [McMahon Pairing][10] [created by Lee][18] [together with Robert M (Bob) Ryder at Bell Labs][10].
+
 1966: Works on [FASE][19] - multiple articles and papers published
 
 1975: [Joins Bell Labs Computing Science Research Center][42]
 
 1976: [Work on the authorship of the Federalist papers][8]
+
+1977: [McMahon Pairing system is used by the American Go Association][46]
 
 197X-198X: [Work on comm, qsort, sed, the current grep, and the concordance-builders index for English and cref for C][4]
 
@@ -52,6 +54,13 @@ The obituary of [Dr Francis Michael "Frank" Grogan in 1965][40] (father of Helen
 a false reference or possible mixup with Bell Labs in Murray Hill. Lee was most likely
 working at Bell Labs from 1963 onwards and no other source mentions him ever working in
 a hospital.
+
+It is not entirely clear in which Go-Club the McMahon pairing system was conceived.
+One option is the [New York go club][25] which was active at the time and close
+to Morris County. The other option is the [Princeton go club][] as it was known
+to host the [New Jersey Open][]. Both options are mentioned in the [xmp.net page][10]
+for the McMahon system. It can currently even be disputed if Lee ever played Go or
+simply helped with the Tournament design.
 
 Several different records claim his death to be either the 1.1.1989 or 17.2.1989. This is
 most likely caused by only the year of his death being widely known. First of January is
@@ -215,6 +224,15 @@ Source: [Retelling on New York Go Center related website][25]
 
 Source: [sed bug mailing list][28]
 
+```
+The Swiss-McMahon was invented by Lee McMahon and Bob Ryder of Bell
+labs in the early 1960’s for the New Jersey Open, at a time when player
+ratings were wild approximations of actual strength, and "open" meant
+that everyone played in one giant section.
+```
+
+Source: [Historical information of the McMahon Pairing][10]
+
 ## Sources
 
 [Where GREP Came From - Computerphile][1]
@@ -303,6 +321,14 @@ Source: [sed bug mailing list][28]
 
 [St. Louis Graduate information][45] as discovered by [u/Fredelas][36]
 
+[Ranka yearbook document Go mentions Lee in 1986][46]
+
+[Source for all available Ranka Yearbooks (1985~1997)][47]
+
+[New Jersey Open - reported to be tournament for which McMahon system was designed][48]
+
+[Princeton Go Club which hosted the New Jersey Open][49]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -348,3 +374,7 @@ Source: [sed bug mailing list][28]
 [43]: https://www.newspapers.com/clip/66966484/1955-graduates-of-st-louis-university/
 [44]: https://www.newspapers.com/clip/66966715/national-science-foundation-fellowship/
 [45]: https://www.newspapers.com/newspage/574320192/
+[46]: images/Ranka_1986.png
+[47]: http://www.ranka.intergofed.org/?page_id=1878
+[48]: https://senseis.xmp.net/?NewJerseyOpen
+[49]: https://senseis.xmp.net/?PrincetonGoClub
