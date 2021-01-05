@@ -57,8 +57,8 @@ a hospital.
 
 It is not entirely clear in which Go-Club the McMahon pairing system was conceived.
 One option is the [New York go club][25] which was active at the time and close
-to Morris County. The other option is the [Princeton go club][] as it was known
-to host the [New Jersey Open][]. Both options are mentioned in the [xmp.net page][10]
+to Morris County. The other option is the [Princeton go club][49] as it was known
+to host the [New Jersey Open][48]. Both options are mentioned in the [xmp.net page][10]
 for the McMahon system. It can currently even be disputed if Lee ever played Go or
 simply helped with the Tournament design.
 
