@@ -6,9 +6,11 @@ while remaining as unbiased as possible.
 
 ## Reconstructed CV
 
-1931: Born Lee E. McMahon - **citation needed** + **Middle name needed**
+1931: Born [Lee Edward McMahon 24.10.1931, Father Leo E McMahon, Mother Catherine McCarthy][33] in [St. Louis][34]
 
-???: Marries Helen G ([maybe maiden name Grogan][31]) McMahon [inferred from newspaper][20] - **citation needed**
+1940: [Appears in the 1940 Census in St. Louis with parents and sister Anne][41]
+
+???: Marries Helen G ([maybe maiden name Grogan][31]) McMahon [inferred from newspaper][20] - [confirmed in Frank Grogan obituary][40]
 
 ???: Children Michael & Catherine [inferred from newspaper][20] - **citation needed**
 
@@ -36,7 +38,21 @@ while remaining as unbiased as possible.
 
 1989: Stops working at Bell labs - **citation needed**
 
-1989: Death (can not be verified in [New Jersey][30]) - **citation needed**
+1989: Death [15.2.1989 according to social security records][39] (can not be verified in [New Jersey][30])
+
+### Contradictory and unclear information
+
+The obituary of [Dr Francis Michael "Frank" Grogan in 1965][40] (father of Helen) mentions Lee as
+`Dr. Lee McMahon, is on the staff of a Murry Hill, N.J. hospital`. This is most likely
+a false reference or possible mixup with Bell Labs in Murray Hill. Lee was most likely
+working at Bell Labs from 1963 onwards and no other source mentions him ever working in
+a hospital.
+
+Several different records claim his death to be either the 1.1.1989 or 17.2.1989. This is
+most likely caused by only the year of his death being widely known. First of January is
+a common default in such cases. The 17.2. date might be a simply wrong scan of the 15.2.
+as the numbers 7 and 5 can be easily mistaken for each other in handwriting / multiple fonts.
+Overall the date of 15.2. seems to be the most likely date.
 
 ## Pictures
 
@@ -259,6 +275,20 @@ Source: [sed bug mailing list][28]
 
 [Unix playing card scan by David Rosenthal][32]
 
+[Social Security information][33] as discovered by [u/genealogyq_throwaway][35]
+
+[Social Security Birth Record][34] as discovered by [u/Fredelas][36]
+
+[Social Security Death Record][39] as discovered by [u/Fredelas][36]
+
+[PDP-11/20 saga as told by Sam Morgan][37]
+
+[Interview with Bob Morris mentioning McMahon and his death][38]
+
+[Obituary of Dr Francis Michael "Frank" Grogan][40] as discovered by [u/genealogyq_throwaway][35]
+
+[Record of the 1940 U.S. Federal Population Census including Lee][41]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -291,3 +321,12 @@ Source: [sed bug mailing list][28]
 [30]: https://archive.org/details/NJ_Death_Index_1989_G-M/page/n366/mode/1up
 [31]: https://www.genealogy.com/ftm/k/i/r/Merrily-R-Kirchen/WEBSITE-0001/UHP-0230.html
 [32]: https://blog.dshr.org/p/unix-p.html
+[33]: images/McMahon_social_security.png
+[34]: https://aad.archives.gov/aad/display-partial-records.jsp?f=5138&mtch=1&q=494464112&cat=all&dt=3063&tf=F&bc=sd
+[35]: https://www.reddit.com/user/genealogyq_throwaway/
+[36]: https://www.reddit.com/user/Fredelas/
+[37]: http://doc.cat-v.org/unix/oral-history/transcripts/morgan.htm
+[38]: http://www.princeton.edu/~hos/mike/transcripts/morris.htm
+[39]: https://aad.archives.gov/aad/display-partial-records.jsp?f=5058&mtch=1&q=494464112&cat=all&dt=3003&tf=F&bc=sd
+[40]: https://www.findagrave.com/memorial/126725714/francis-michael-grogan
+[41]: https://www.archives.com/GA.aspx?_act=ImageViewCensus1940&FirstName=Lee&ExactFirstName=1&LastName=McMahon&ExactLastName=1&MiddleName=Edward&Location=US&BirthState=MO&BirthYear=1931&UniqueId=51042756&type=census&folderImageSeq=196
