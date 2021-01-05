@@ -16,17 +16,21 @@ while remaining as unbiased as possible.
 
 1949: [St. Louis University High Alumni][22] (Catholic, Jesuit college-preparatory school)
 
-???: Graduates from Saint Louis University - **citation needed**
+1955: Graduates from [Saint Louis University with a bachelor][43]
+
+1960: [Receives fellowship for study of psychology at Harvard][44]
 
 ~1960-1970: [McMahon Pairing][10] [created by Lee][18] [most likely in the New York go club][25]
 
-1963: [Phd at harvard for Psychology][23] - Topic: [Grammatical analysis as a part of understanding a sentence][24]
+1963: [Phd at Harvard for Psychology][23] - Topic: [Grammatical analysis as a part of understanding a sentence][24]
 
 ~1963: Jesuit seminar [according to Brian Kernigham][27] - **additional citation needed, not mentioned elsehwere**
 
-1963: Starts working at Bell labs - **citation needed**
+1963: [Starts working at Bell labs][42]
 
 1966: Works on [FASE][19] - multiple articles and papers published
+
+1975: [Joins Bell Labs Computing Science Research Center][42]
 
 1976: [Work on the authorship of the Federalist papers][8]
 
@@ -38,7 +42,8 @@ while remaining as unbiased as possible.
 
 1989: Stops working at Bell labs - **citation needed**
 
-1989: Death [15.2.1989 according to social security records][39] (can not be verified in [New Jersey][30])
+1989: Death [15.2.1989 according to social security records][39] (can not be verified in [New Jersey][30]).
+Died at [St. Vincent's Hospital New York City][42].
 
 ### Contradictory and unclear information
 
@@ -52,6 +57,7 @@ Several different records claim his death to be either the 1.1.1989 or 17.2.1989
 most likely caused by only the year of his death being widely known. First of January is
 a common default in such cases. The 17.2. date might be a simply wrong scan of the 15.2.
 as the numbers 7 and 5 can be easily mistaken for each other in handwriting / multiple fonts.
+The most notable incident of the 17.2. being used is the [obituary][42].
 Overall the date of 15.2. seems to be the most likely date.
 
 ## Pictures
@@ -289,6 +295,12 @@ Source: [sed bug mailing list][28]
 
 [Record of the 1940 U.S. Federal Population Census including Lee][41]
 
+[Obituary of Lee E McMahon from the Madison public Library][42]
+
+[St. Louis University Graduates][43] as discovered by [u/Fredelas][36]
+
+[Fellowships at St. Louis University][44] as discovered by [u/Fredelas][36]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -330,3 +342,6 @@ Source: [sed bug mailing list][28]
 [39]: https://aad.archives.gov/aad/display-partial-records.jsp?f=5058&mtch=1&q=494464112&cat=all&dt=3003&tf=F&bc=sd
 [40]: https://www.findagrave.com/memorial/126725714/francis-michael-grogan
 [41]: https://www.archives.com/GA.aspx?_act=ImageViewCensus1940&FirstName=Lee&ExactFirstName=1&LastName=McMahon&ExactLastName=1&MiddleName=Edward&Location=US&BirthState=MO&BirthYear=1931&UniqueId=51042756&type=census&folderImageSeq=196
+[42]: images/McMahon_Obituary.png
+[43]: https://www.newspapers.com/clip/66966484/1955-graduates-of-st-louis-university/
+[44]: https://www.newspapers.com/clip/66966715/national-science-foundation-fellowship/
