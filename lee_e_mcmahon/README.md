@@ -32,7 +32,7 @@ while remaining as unbiased as possible.
 
 1975: [Joins Bell Labs Computing Science Research Center][42]
 
-1976: [Work on the authorship of the Federalist papers][8]
+1976: [Work on the authorship of the Federalist papers][8] together with [Bob Morris][50]
 
 1977: [McMahon Pairing system is used by the American Go Association][46]
 
@@ -329,6 +329,8 @@ Source: [Historical information of the McMahon Pairing][10]
 
 [Princeton Go Club which hosted the New Jersey Open][49]
 
+[Bob Morris who worked with Lee for a short time period][50]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -378,3 +380,4 @@ Source: [Historical information of the McMahon Pairing][10]
 [47]: http://www.ranka.intergofed.org/?page_id=1878
 [48]: https://senseis.xmp.net/?NewJerseyOpen
 [49]: https://senseis.xmp.net/?PrincetonGoClub
+[50]: https://en.wikipedia.org/wiki/Robert_Morris_(cryptographer)
