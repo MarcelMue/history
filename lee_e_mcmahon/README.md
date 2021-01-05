@@ -16,9 +16,9 @@ while remaining as unbiased as possible.
 
 1949: [St. Louis University High Alumni][22] (Catholic, Jesuit college-preparatory school)
 
-1955: Graduates from [Saint Louis University with a bachelor][43]
+1955: Graduates from [Saint Louis University with a bachelor of arts from the college of philosophy and letters][43].
 
-1960: [Receives fellowship for study of psychology at Harvard][44]
+1960: [Receives fellowship for study of psychology at Harvard][44] with [summa cum laude][45]
 
 ~1960-1970: [McMahon Pairing][10] [created by Lee][18] [most likely in the New York go club][25]
 
@@ -301,6 +301,8 @@ Source: [sed bug mailing list][28]
 
 [Fellowships at St. Louis University][44] as discovered by [u/Fredelas][36]
 
+[St. Louis Graduate information][45] as discovered by [u/Fredelas][36]
+
 [1]: https://www.youtube.com/watch?v=NTfOnGZUZDk
 [2]: http://sed.sourceforge.net/sedfaq2.html#s2.1
 [3]: http://www.columbia.edu/~rh120/ch106.x09
@@ -345,3 +347,4 @@ Source: [sed bug mailing list][28]
 [42]: images/McMahon_Obituary.png
 [43]: https://www.newspapers.com/clip/66966484/1955-graduates-of-st-louis-university/
 [44]: https://www.newspapers.com/clip/66966715/national-science-foundation-fellowship/
+[45]: https://www.newspapers.com/newspage/574320192/
